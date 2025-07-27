@@ -1,4 +1,6 @@
-Project Drishti – Hackathon Submission
+# Improving safety at large public events
+
+## Project Drishti – Hackathon Submission
 🏆 Project Drishti – AI-Powered Event Safety Platform
 🎯 Objective:
 Project Drishti is an intelligent situational awareness platform designed to act as the central nervous system for managing public event safety. By integrating cutting-edge Google AI technologies, it enables real-time monitoring, predictive analysis, and automated emergency response at large-scale events like music festivals or rallies.
