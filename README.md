@@ -51,4 +51,24 @@ Deployed with Firebase Studio for real-time monitoring and scalability. Project 
 
 # link : https://guardknight-dhristi.web.app/
 
+# After logged in
+<img width="1876" height="947" alt="image" src="https://github.com/user-attachments/assets/1fe08229-54fd-491e-8f50-459fbb4ac7f9" />
+# AI AGENT
+<img width="1888" height="947" alt="image" src="https://github.com/user-attachments/assets/dc029d26-01a2-41df-964a-d0eb6a4bfc84" />
+
+## solve multilevel problem not only large crowd
+# mode 1
+<img width="1877" height="895" alt="image" src="https://github.com/user-attachments/assets/562d71f0-ab72-4385-936d-c1b3cd0fdc47" />
+
+# mode 2
+<img width="1906" height="882" alt="image" src="https://github.com/user-attachments/assets/c735fd0d-6a67-47e1-a27a-26628fedb810" />
+
+# mode 3
+<img width="1889" height="947" alt="image" src="https://github.com/user-attachments/assets/55292b46-2de8-49d4-8a5e-81428111c7cd" />
+<img width="1870" height="878" alt="image" src="https://github.com/user-attachments/assets/7c1f6029-e986-4d54-b917-5337a681e1d3" />
+
+# mode 4
+<img width="1865" height="779" alt="image" src="https://github.com/user-attachments/assets/c27c1380-247f-498c-8520-537fe9986690" />
+<img width="1875" height="892" alt="image" src="https://github.com/user-attachments/assets/af7d5d8c-12c6-4ccb-9436-13d52564fdbe" />
+
 Thank you
