@@ -39,7 +39,8 @@ Deployed with Firebase Studio for real-time monitoring and scalability. Project 
 
 ---------------
 # command to run application:
-## while signing up if stuch then wait for 4-5 second and then go back and login using saved password and username.[backend bug] 
+## while signing up if stuch then wait for 4-5 second and then go back and login using saved password and username.[backend bug] [fierbase store username , password and few more info and lets you login]
+
 1. npm run build
 
 2 .Deploy to Firebase
